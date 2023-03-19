@@ -1,7 +1,7 @@
 # Projeto de Treino CRUD Cadastro de Clientes, Fornecedores, etc.
 
 #### _Projeto realizado para treinar programação de varias ferramentas Frontend e Backend._
-#### _A branch "master" contem o projeto inicial._
+#### _A branch "main" contem o projeto principal e atualizações mais recentes._
 #
 
 ### Tecnologicas Usadas:
