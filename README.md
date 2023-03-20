@@ -15,9 +15,9 @@
 - - _JAVA (JDK v19.0.2 2023-01-17);_
 - - _SPRING BOOT (v3.0.4);_
 - - _MAVEN (v4.0.0);_
-- - _Banco de dados POSTGRESQL (v12.12);_
+- - _Banco de dados POSTGRESQL (v12.14);_
 - #### _BACKEND "backendPythonPuro":_
 - - _PYTHON (v3.11.2)_;
-- - _Banco de dados POSTGRESQL (v12.12);_
+- - _Banco de dados POSTGRESQL (v12.14);_
 - #### _OUTROS:_
 - - _Modelagem de Banco de Dados feito no MYSQL WORKBENCH (v8.0.30);_
