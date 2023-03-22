@@ -1,5 +1,5 @@
 package br.com.api.cadatroPessoas.models;
 
-public class localizacaoParceiroNegocio {
+public class LocalizacaoParceiroNegocio {
 
 }
