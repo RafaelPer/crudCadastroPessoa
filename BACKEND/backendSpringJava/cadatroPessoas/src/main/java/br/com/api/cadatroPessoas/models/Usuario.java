@@ -25,9 +25,9 @@ public class Usuario {
 	@Column(name = "senha", nullable = false, length = 255)
 	private String senha;
 	
-    @ManyToOne
-    @JoinColumn(name="idParceiroNegocioFK", nullable=false)
-    private ParceiroNegocio idParceiroNegocioFK;
+	@ManyToOne
+	@JoinColumn(name="idParceiroNegocioFK", nullable=false)
+	private ParceiroNegocio idParceiroNegocioFK;
 	
 	
 }
