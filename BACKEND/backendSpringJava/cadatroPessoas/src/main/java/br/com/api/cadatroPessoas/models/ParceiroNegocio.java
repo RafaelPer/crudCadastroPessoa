@@ -13,6 +13,6 @@ public class ParceiroNegocio {
 	
 	
 	@OneToMany(mappedBy = "parceiroNegocio")
-    private Set<Usuario> usuarios;
-
+	private Set<Usuario> usuarios;
+	
 }
